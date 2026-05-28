@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsparse",
+        "uuid": 34248123,
+        "checksum": "igevn9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
